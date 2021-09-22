@@ -1,3 +1,5 @@
+// First Program
+/*
 let wantToContinue = true
 let i = 1
 while(wantToContinue){
@@ -5,3 +7,4 @@ while(wantToContinue){
   wantToContinue = confirm("Do you want to continue?")
   i++
 }
+*/
